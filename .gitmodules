@@ -4,3 +4,21 @@
 [submodule "video-talkcraft"]
 	path = video-talkcraft
 	url = https://github.com/Vincentwei1021/video-talkcraft.git
+[submodule "anything2explainer"]
+	path = anything2explainer
+	url = https://github.com/Vincentwei1021/anything2explainer.git
+[submodule "remocn"]
+	path = remocn
+	url = https://github.com/Remocn/remocn.git
+[submodule "snapcn"]
+	path = snapcn
+	url = https://github.com/shadcn-labs/snapcn.git
+[submodule "motion-skills"]
+	path = motion-skills
+	url = https://github.com/iart-ai/motion-skills.git
+[submodule "awesome-ai-motion"]
+	path = awesome-ai-motion
+	url = https://github.com/gongnyang/awesome-ai-motion.git
+[submodule "OpenMontage"]
+	path = OpenMontage
+	url = https://github.com/calesthio/OpenMontage.git
