@@ -1,0 +1,6 @@
+[submodule "video-shotcraft"]
+	path = video-shotcraft
+	url = https://github.com/Vincentwei1021/video-shotcraft.git
+[submodule "video-talkcraft"]
+	path = video-talkcraft
+	url = https://github.com/Vincentwei1021/video-talkcraft.git
